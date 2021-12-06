@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbc7003d-62d9-4013-bf45-2122476ea288" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21tTXcLue9yf4wCap3B5sLcvo4d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbc7003d-62d9-4013-bf45-2122476ea288" name="Default Changelist" comment="" />
+      <created>1638759424403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638759424403</updated>
+      <workItem from="1638759427819" duration="527000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="345" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1638759620238">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="485" y="345" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1493.893/2240.0.1920.1080@0.0.1493.893" timestamp="1638759620238" />
+    <state x="372" y="170" key="NewModule_or_Project.wizard" timestamp="1638759678215">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="372" y="170" key="NewModule_or_Project.wizard/0.0.1493.893/2240.0.1920.1080@0.0.1493.893" timestamp="1638759678215" />
+  </component>
+</project>
